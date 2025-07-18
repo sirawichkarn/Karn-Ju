@@ -3,8 +3,9 @@
 
 
 #include<stdio.h>
+
 int main() {
-printf("Hello, World!");
-printf("welcome to Robotics and AI!");
+printf("Hello, World!\n");
+printf("welcome to Robotics and AI!\n");
 return 0;
 }

@@ -8,5 +8,5 @@ int main(){
     b = 8.4;
     c = 3;
     d = (a+b)+c;
-    printf("%f",d);
+    printf("%.2f\n",d);
 }

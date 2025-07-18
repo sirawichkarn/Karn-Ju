@@ -9,5 +9,5 @@ int main(){
     b = 21;
     c = 56;
     d = (a+b)-c;
-    printf("%d",d);
+    printf("%d\n",d);
 }
